@@ -1,0 +1,89 @@
+.Main {
+  font-family: 'Archivo', sans-serif;
+  padding-bottom:64px;
+  max-width: 400px;
+  margin: 0 auto;
+
+  h2 {
+      font-family: 'Clash Display', sans-serif;
+  }
+
+  nav {
+      padding: 0 32px;
+      height: 88px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+
+      h1 {
+          width: 36px;
+          height: 32px;
+          text-indent: -3000px;
+          background: url(/logo.svg);
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-position: center center;
+      }
+  }
+
+  ul {
+      display: flex;
+      flex-direction: row;
+      margin: 48px 0 0 0;
+      list-style: none;
+      padding: 0;
+      gap: 24px;
+
+      a {
+          display: block;
+          width: 32px;
+          height: 32px;
+          text-indent: -3000px;
+          background-size: contain;
+          background-repeat: no-repeat;
+          margin: 0;
+
+          &:hover {
+              opacity: 0.6;
+          }
+      }
+
+      a[href^="https://twitter"] {
+          background-image:url(/social_twitter.svg);
+      }
+
+      a[href^="https://github"] {
+          background-image:url(/social_github.svg);
+      } 
+      
+      a[href^="https://dribbble"] {
+          background-image:url(/social_dribbble.svg);
+      }      
+      
+      a[href^="https://linkedin"] {
+          background-image:url(/social_linkedin.svg);
+      }              
+  }
+
+  article {
+      padding: 0 24px;
+      margin: 0 auto;
+      
+      img {
+          margin: 16px 0 16px 0;
+          width: 100%;
+          max-width: 320px;
+      }
+
+      h2 {
+          font-family: 'Clash Display';
+          font-style: normal;
+          font-weight: 600;
+          font-size: 40px;
+          line-height: 40px;
+          color: #182E65;
+          margin: 16px 0;
+      }
+  }
+}
