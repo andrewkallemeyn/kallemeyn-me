@@ -35,6 +35,7 @@ export default function Home() {
           <img src="/intro_mark.svg" />
           <h2>I use design & technology to change lives.</h2>
           <p>I currently work as a Lead Designer at Ramsey Solutions in Nashville, TN building products that help people get out of debt.</p>
+          <p>I've been known to tinker on random projects, like my <a href="https://chrome.google.com/webstore/detail/kindle-highlights/iokepmgnajdjanobkccflilmepjpmjnm">Chrome Extension</a> that helps people remember things they've read on their Kindle.</p>
           <ul>
             <li><a href="https://twitter.com/lpngfrg">Twitter</a></li>
             <li><a href="https://dribbble.com/leapingfrog">Dribbble</a></li>

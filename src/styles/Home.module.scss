@@ -1,11 +1,14 @@
 .Main {
   font-family: 'Archivo', sans-serif;
   padding-bottom:64px;
-  max-width: 400px;
   margin: 0 auto;
 
+  @media (min-width: 480px) {
+    max-width: 480px; 
+  }  
+
   h2 {
-      font-family: 'Clash Display', sans-serif;
+      font-family: 'Clash Display', sans-serif;     
   }
 
   nav {
@@ -63,7 +66,7 @@
       
       a[href^="https://linkedin"] {
           background-image:url(/social_linkedin.svg);
-      }              
+      }    
   }
 
   article {
