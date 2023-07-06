@@ -33,9 +33,12 @@ export default function Home() {
         </nav>
         <article>
           <img src="/intro_mark.svg" />
-          <h2>I use design & technology to change lives.</h2>
+          <h2>I bring ideas to life with design and technology.</h2>
           <p>I currently work as a Lead Designer at Ramsey Solutions in Nashville, TN building products that help people get out of debt.</p>
-          <p>I've been known to tinker on random projects, like my <a href="https://chrome.google.com/webstore/detail/kindle-highlights/iokepmgnajdjanobkccflilmepjpmjnm">Chrome Extension</a> that helps people remember things they've read on their Kindle.</p>
+          <p>
+            🧠 &nbsp;<a href="https://mirror.xyz/andrew.kallemeyn.eth">Random Thoughts</a><br />
+            📖 &nbsp;Have an Amazon Kindle? <a href="https://chrome.google.com/webstore/detail/kindle-highlights/iokepmgnajdjanobkccflilmepjpmjnm">See My Chrome Extension</a>
+          </p>
           <ul>
             <li><a href="https://twitter.com/lpngfrg">Twitter</a></li>
             <li><a href="https://dribbble.com/leapingfrog">Dribbble</a></li>
