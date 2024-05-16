@@ -40,9 +40,9 @@ export default function Home() {
             📖 &nbsp;Have an Amazon Kindle? <a href="https://chrome.google.com/webstore/detail/kindle-highlights/iokepmgnajdjanobkccflilmepjpmjnm">See My Chrome Extension</a>
           </p>
           <ul>
-            <li><a href="https://twitter.com/lpngfrg">Twitter</a></li>
-            <li><a href="https://dribbble.com/leapingfrog">Dribbble</a></li>
-            <li><a href="https://github.com/leapingfrog">GitHub</a></li>
+            <li><a href="https://twitter.com/ndrewkallemeyn">Twitter</a></li>
+            <li><a href="https://dribbble.com/andrewkallemeyn">Dribbble</a></li>
+            <li><a href="https://github.com/andrewkallemeyn">GitHub</a></li>
             <li><a href="https://linkedin.com/in/andrew-kallemeyn-6203489a">LinkedIn</a></li>
           </ul>        
         </article>
